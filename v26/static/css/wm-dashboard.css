@@ -44,7 +44,7 @@ body {
 #background {
   height: 100%;
   width: 100%;
-  background-image: url(/static/img/bg1.jpg);
+  background-image: url(https://raw.githubusercontent.com/imdile/XFastRC/refs/heads/main/v26/static/img/bg1.jpg);
   background-size: cover;
   background-position: center;
   position: fixed;
